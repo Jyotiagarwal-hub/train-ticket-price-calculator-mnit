@@ -30,11 +30,10 @@ Each test has different points assigned to it. Your final score will be the sum 
 1. Create a branch from main branch
 2. Make your changes
 3. Run all tests locally and make sure they pass
-4. Push your changes to your branch
-5. Create a pull request from your branch to main branch in github
-6. Once you raise the pull request on github, tests will run automatically.
-7. Based on how many tests are passed and what tests are passed, you will get your score.
-8. You can push code as many times as you want. Each time latest score will be updated and will be considered for final score.
+4. Push your changes to your branch in remote
+5. Once you push changes to github, tests will run automatically.
+6. Based on how many tests are passed and what tests are passed, you will get your score.
+7. You can push code as many times as you want. Each time latest score will be updated and will be considered for final score.
 
 ## Leaderboard
 1. Once the test is done, make sure you push all your changes to github
