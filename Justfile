@@ -3,7 +3,6 @@ ARGS_TEST := env("_UV_RUN_ARGS_TEST", "")
 @_:
     just --list
 
-
 # Run tests
 [group('qa')]
 test *args:
